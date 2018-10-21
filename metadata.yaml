@@ -1,5 +1,5 @@
 _repo: De-Beurs-Lacht_2838
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Stock exchanges -- France -- Paris -- History -- 19th century'
 - !lcc 'PT'
+- GITenberg
 title: De Beurs Lacht
 url: http://www.gutenberg.org/ebooks/2838
